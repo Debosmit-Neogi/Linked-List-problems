@@ -7,3 +7,7 @@ You are given a linked list representing a number such that each individual node
 
 ## Problem 2. Reverse Linked list- iterative approach
 You are given a linked list. Reverse the linked list and print it using iterative approach
+
+## Problem 3. Reverse Linked list- recursive approach
+You are given a linked list. Reverse the linked list and print it using recursive approach
+
