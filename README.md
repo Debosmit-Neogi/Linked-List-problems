@@ -11,3 +11,7 @@ You are given a linked list. Reverse the linked list and print it using iterativ
 ## Problem 3. Reverse Linked list- recursive approach
 You are given a linked list. Reverse the linked list and print it using recursive approach
 
+## Problem 4. Reverse k nodes of linked list
+Given a linked list, write a function to reverse every k nodes (where k is an input to the function). 
+Example: 
+Input: 1->2->3->4->5->6->7->8->NULL,  (K = 3)    Output: 3->2->1->6->5->4->8->7->NULL 
