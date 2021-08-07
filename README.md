@@ -19,3 +19,8 @@ Input: 1->2->3->4->5->6->7->8->NULL,  (K = 3)    Output: 3->2->1->6->5->4->8->7-
 ## Problem 5. Detect loop in a linked list
 Given a linked list, check if the linked list has loop or not.
 
+## Problem 6. Delete duplicate from sorted linked list
+Write a function that takes a list sorted in non-decreasing order and deletes any duplicate nodes from the list. The list should only be traversed once.
+Example:
+Input: 11->11->11->21->43->43   Output: 11->21->43
+
