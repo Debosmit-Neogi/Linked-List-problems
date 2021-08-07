@@ -15,3 +15,11 @@ You are given a linked list. Reverse the linked list and print it using recursiv
 Given a linked list, write a function to reverse every k nodes (where k is an input to the function). 
 Example: 
 Input: 1->2->3->4->5->6->7->8->NULL,  (K = 3)    Output: 3->2->1->6->5->4->8->7->NULL 
+
+## Problem 5. Detect loop in a linked list
+Given a linked list, check if the linked list has loop or not.
+Example:
+
+Input: 1-2-3   Output: Loop is present
+         | | 
+         5-4
