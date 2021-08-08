@@ -26,3 +26,6 @@ Input: 11->11->11->21->43->43   Output: 11->21->43
 
 ## Problem 7. Remove duplicates from an unsorted linked list (Brute force)
 Write a function that takes an Unsorted list and deletes any duplicate nodes from the list.
+
+## Problem 8. Find middle of linked list (Optimised solution)
+Find middle of the linked list using Runners' technique 
