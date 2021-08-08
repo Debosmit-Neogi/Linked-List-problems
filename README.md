@@ -24,3 +24,5 @@ Write a function that takes a list sorted in non-decreasing order and deletes an
 Example:
 Input: 11->11->11->21->43->43   Output: 11->21->43
 
+## Problem 7. Remove duplicates from an unsorted linked list (Brute force)
+Write a function that takes an Unsorted list and deletes any duplicate nodes from the list.
