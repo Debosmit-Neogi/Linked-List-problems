@@ -34,3 +34,5 @@ Find middle of the linked list using Runners' technique
 Given 2 linked list (sorted), merge them into 1 sorted linked list
 Example:
 Input: a= 1->3->5->7,  b= 2->4->6   Output: 1->2->3->4->5->6->7
+
+## Problem 10. Apply merge sort on unsorted linked list
